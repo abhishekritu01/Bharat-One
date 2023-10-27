@@ -12,7 +12,7 @@ export function Introduction() {
       >
         <Container className="text-lg tracking-tight text-slate-700">
           <p className="font-display text-4xl font-bold tracking-tight text-slate-900">
-            "Limitless Access to GPUs for Deep Learning" is a platform that provides the resources you need to accelerate your deep learning projects.
+            &quot;Limitless Access to GPUs for Deep Learning&quot; is a platform that provides the resources you need to accelerate your deep learning projects.
           </p>
           <p className="mt-4">
             Before, accessing powerful GPUs for deep learning was a complex process, often involving expensive hardware and technical expertise. But now, with our platform, you can simplify this and have limitless access to GPU resources.
@@ -21,7 +21,7 @@ export function Introduction() {
             Our platform offers a seamless experience, allowing you to focus on your deep learning tasks without worrying about the hardware limitations.
           </p>
           <p className="mt-4">
-            With "Limitless Access to GPUs for Deep Learning," you'll enjoy the following benefits:
+            With &quot;Limitless Access to GPUs for Deep Learning,&quot; you&apos;ll enjoy the following benefits:
           </p>
           <ul role="list" className="mt-8 space-y-3">
             {[

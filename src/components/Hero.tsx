@@ -13,7 +13,7 @@ function Testimonial() {
       </div>
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
-          "GPU access unleashes creative genius, turbocharging innovation and enabling boundless possibilities. A game-changer for creators!"
+          &quot;GPU access unleashes creative genius, turbocharging innovation and enabling boundless possibilities. A game-changer for creators!&quot;
         </p>
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-500">

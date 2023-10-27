@@ -38,10 +38,10 @@ export function Author() {
               Author
             </SectionHeading>
             <p className="mt-8 font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
-              <span className="block text-blue-600">Umakant Soni –</span> Hey there, I’m the author behind 'Empowering Deep Learning with GPU Access'.
+              <span className="block text-blue-600">Umakant Soni –</span> Hey there, I&apos;m the author behind &apos;Empowering Deep Learning with GPU Access&apos;.
             </p>
             <p className="mt-4 text-lg tracking-tight text-slate-700">
-              "I’ve been harnessing the power of GPUs for deep learning for over a decade, working with some of the biggest names in the industry to create custom models and insights. I'm an accomplished conference speaker, and have been teaching deep learning workshops every month for the last three years. I've worked with learners of all skill levels and fine-tuned my teaching approach to make it accessible to anyone eager to dive into the world of deep learning with GPU access."
+              &quot;I&apos;ve been harnessing the power of GPUs for deep learning for over a decade, working with some of the biggest names in the industry to create custom models and insights. I&apos;m an accomplished conference speaker, and have been teaching deep learning workshops every month for the last three years. I&apos;ve worked with learners of all skill levels and fine-tuned my teaching approach to make it accessible to anyone eager to dive into the world of deep learning with GPU access.&quot;`
             </p>
             <p className="mt-8">
               <Link
