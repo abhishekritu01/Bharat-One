@@ -9,19 +9,19 @@ import { SectionHeading } from '@/components/SectionHeading'
 const tableOfContents = {
   'STORAGE': {
     'High-speed filesystem for GPU instances': 1,
-    'Create filesystems in Bharat One On-Demand Cloud to persist files and data with your compute.': 2,
+    'Create filesystems in Bharat1 On-Demand Cloud to persist files and data with your compute.': 2,
     'Scalable performance: Adapts to growing storage needs without compromising speed.': 3,
     'Cost-efficient: Only pay for the storage you use, optimizing budget allocation.*': 4,
     'No limitations: No ingress, no egress and no hard limit on how much you can store.': 5,
   },
   'HOST & SHARE GENERATIVE AI APPS': {
-    'Easy hosting: Bharat One Demos simplifies the hosting of Gradio-powered Generative AI apps.': 1,
-    // 'Cost-effective: Host your apps on an A10 server for just $0.60/hr.': 2,
+    'Easy hosting: Bharat1 Demos simplifies the hosting of Gradio-powered Generative AI apps.': 1,
+    'Cut costs, host apps on A10 server for optimal affordability.': 2,
     'Public or private sharing: Share your apps with the wider ML community or privately with individuals.': 3,
     'No limitations: No restrictions on usage, allowing you to share and host without constraints.': 4,
   },
   'SPEND LESS': {
-    'Affordable: Bharat One Cloud Clusters are the most affordable cloud GPU solution on the market.': 1,
+    'Affordable: Bharat1 Cloud Clusters are the most affordable cloud GPU solution on the market.': 1,
     'No hidden fees: No hidden fees or charges. You only pay for what you use.': 2,
     'No commitments: No long-term commitments or contracts. Cancel anytime.': 3,
     'No limitations: No restrictions on usage, allowing you to train without constraints.': 4,
