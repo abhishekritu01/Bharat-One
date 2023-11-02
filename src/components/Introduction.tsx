@@ -45,7 +45,7 @@ export function Introduction() {
                 href="https://docs.google.com/forms/d/e/1FAIpQLSdBpQnIawyhY3jJdPtvgb7TQvUAM-YuzmQxip_w_BplSBULeQ/viewform?usp=sf_link"
                 className="text-base font-medium text-blue-600 hover:text-blue-800"
             >
-             Get Started {' '}
+             Join a Waitlist {' '}
               <span aria-hidden="true">&rarr;</span>
             </Link>
           </p>

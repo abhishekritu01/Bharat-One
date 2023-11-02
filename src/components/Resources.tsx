@@ -110,7 +110,7 @@ const resources = [
     {
         title: 'GPU Advantages',
         description:
-            'Designed for large-scale model training, Lambda Cloud Clusters offer high-performance networking and enterprise-grade GPUs, with a non-blocking network architecture for seamless deployment.',
+            'Designed for large-scale model training, Bharat One Cloud Clusters offer high-performance networking and enterprise-grade GPUs, with a non-blocking network architecture for seamless deployment.',
         image: function NvidiaGPUImage() {
             return (
                 <div className="absolute inset-0 flex items-center justify-center bg-[radial-gradient(#2C313D_35%,#000)]">
@@ -121,7 +121,7 @@ const resources = [
     },
     {
         title: 'Endorsed by professionals.',
-        description:'Endorsed by leading AI engineers, Lambda\'s Cloud is the choice of industry pioneers who have been instrumental in advancing computer vision, natural language processing, and robotics in modern deep learning.',
+        description:'Endorsed by leading AI engineers, Bharat One\'s Cloud is the choice of industry pioneers who have been instrumental in advancing computer vision, natural language processing, and robotics in modern deep learning.',
         image: function NvidiaCommunityImage() {
             return (
                 <div className="absolute inset-0 flex items-center justify-center bg-[#6366F1]">
@@ -155,10 +155,10 @@ export function Resources() {
                     Cloud Cluster
                 </SectionHeading>
                 <p className="mt-8 font-display text-4xl font-bold tracking-tight text-slate-900">
-                    Secure thousands of H100 cloud instances at an incredibly low rate of just $1.50 per hour.
+                    Secure thousands of H100 cloud instances for top-notch performance and robust protection, all with incredible affordability.
                 </p>
                 <p className="mt-4 text-lg tracking-tight text-slate-700">
-                    Train Foundation Models and Large Language Models (LLMs) using Lambda Cloud Clusters equipped with NVIDIA H100 GPUs and blazing-fast 3200 Gbps Infiniband.
+                    Train Foundation Models and Large Language Models (LLMs) using Bharat One Cloud Clusters equipped with NVIDIA H100 GPUs and blazing-fast 3200 Gbps Infiniband.
                 </p>
             </Container>
             <Container size="lg" className="mt-16">
