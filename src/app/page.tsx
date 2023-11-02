@@ -8,7 +8,7 @@ import { Pricing } from '@/components/Pricing'
 import { Resources } from '@/components/Resources'
 import { Screencasts } from '@/components/Screencasts'
 import { TableOfContents } from '@/components/TableOfContents'
-import NewTestimonials from "@/components/NewTestimonials";
+import NewTestimonials from "../components/NewTestimonials";
 
 export default function Home() {
     return (
