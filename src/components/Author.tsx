@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 import { GridPattern } from '@/components/GridPattern'
 import { SectionHeading } from '@/components/SectionHeading'
-import authorImage from '@/images/avatars/Umakantsoni.jpeg'
+import authorImage from '../../public/images/avatars/Umakantsoni.jpeg'
 
 function TwitterIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
   return (

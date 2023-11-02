@@ -2,8 +2,8 @@ import Image from 'next/image'
 
 import { Container } from '@/components/Container'
 import { SectionHeading } from '@/components/SectionHeading'
-import nvidiaGPUImage from '@/images/nvidia-h100.png'
-import nvidiaCommunityImage from '@/images/nvidia-h100.png'
+import nvidiaGPUImage from '../../public/images/nvidia-h100.png'
+import nvidiaCommunityImage from '../../public/images/nvidia-h100.png'
 
 //
 // const resources = [

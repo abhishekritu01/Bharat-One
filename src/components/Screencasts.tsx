@@ -2,10 +2,10 @@ import Image from 'next/image'
 
 import { Container } from '@/components/Container'
 import { SectionHeading } from '@/components/SectionHeading'
-import duotoneImage from '@/images/screencasts/duotone.svg'
-import gridsImage from '@/images/screencasts/grids.svg'
-import setupImage from '@/images/screencasts/setup.svg'
-import strokesImage from '@/images/screencasts/strokes.svg'
+import duotoneImage from '../../public/images/screencasts/duotone.svg'
+import gridsImage from '../../public/images/screencasts/grids.svg'
+import setupImage from '../../public/images/screencasts/setup.svg'
+import strokesImage from '../../public/images/screencasts/strokes.svg'
 //
 // const videos = [
 //   {

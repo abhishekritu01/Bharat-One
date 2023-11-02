@@ -1,7 +1,7 @@
 import React from 'react';
-import avatarImage1 from '@/images/avatars/shubham.jpeg';
-import avatarImage2 from '@/images/avatars/ankitSingh.jpeg';
-import avatarImage3 from '@/images/avatars/lalitesh.jpeg';
+import avatarImage1 from '../../public/images/avatars/shubham.jpeg';
+import avatarImage2 from '../../public/images/avatars/ankitSingh.jpeg';
+import avatarImage3 from '../../public/images/avatars/lalitesh.jpeg';
 import Image from 'next/image';
 
 const testimonials = [

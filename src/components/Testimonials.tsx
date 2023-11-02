@@ -7,15 +7,15 @@ import {
   ExpandableButton,
   ExpandableItems,
 } from '@/components/Expandable'
-import avatarImage3 from '@/images/avatars/avatar-3.png'
-import avatarImage4 from '@/images/avatars/avatar-4.png'
-import avatarImage5 from '@/images/avatars/avatar-5.png'
-import avatarImage6 from '@/images/avatars/avatar-6.png'
-import avatarImage7 from '@/images/avatars/avatar-7.png'
-import avatarImage8 from '@/images/avatars/avatar-8.png'
-import avatarImage9 from '@/images/avatars/avatar-9.png'
-import avatarImage10 from '@/images/avatars/avatar-10.png'
-import avatarImage11 from '@/images/avatars/avatar-11.png'
+import avatarImage3 from '../../public/images/avatars/avatar-3.png'
+import avatarImage4 from '../../public/images/avatars/avatar-4.png'
+import avatarImage5 from '../../public/images/avatars/avatar-5.png'
+import avatarImage6 from '../../public/images/avatars/avatar-6.png'
+import avatarImage7 from '../../public/images/avatars/avatar-7.png'
+import avatarImage8 from '../../public/images/avatars/avatar-8.png'
+import avatarImage9 from '../../public/images/avatars/avatar-9.png'
+import avatarImage10 from '../../public/images/avatars/avatar-10.png'
+import avatarImage11 from '../../public/images/avatars/avatar-11.png'
 
 const testimonials = [
   [

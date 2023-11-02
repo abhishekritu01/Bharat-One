@@ -6,8 +6,8 @@ import { Container } from '@/components/Container'
 
 import { SectionHeading } from '@/components/SectionHeading'
 import Image from "next/image";
-import nvidia from "@/images/resources/nvidai.jpg";
-import newron from "@/images/resources/newron_logo.jpeg";
+import nvidia from "../../public/images/resources/nvidai.jpg";
+import newron from "../../public/images/resources/newron_logo.jpeg";
 
 
 
