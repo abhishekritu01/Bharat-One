@@ -18,9 +18,9 @@ function Testimonial() {
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-500">
         <strong className="font-semibold text-blue-600 before:content-['—_']">
-          Umakant Soni
+          Sandeep Singh
         </strong>
-        , Founder at ARTPARK
+        , Founder at Newron.ai
       </figcaption>
     </figure>
   )
@@ -56,7 +56,7 @@ export function Hero() {
             </p>
             <div className="mt-8 flex gap-4">
               <Button href="https://docs.google.com/forms/d/e/1FAIpQLSdBpQnIawyhY3jJdPtvgb7TQvUAM-YuzmQxip_w_BplSBULeQ/viewform?usp=sf_link" color="blue">
-                Get Started
+                Join a Waitlist
               </Button>
               {/*<Button href="#pricing" variant="outline" color="blue">*/}
               {/*  Contact Us*/}
